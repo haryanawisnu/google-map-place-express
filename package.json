@@ -1,0 +1,28 @@
+{
+  "name": "google-map-place-express",
+  "version": "1.0.0",
+  "description": "implementation google maps place express js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haryanawisnu/google-map-place-express.git"
+  },
+  "keywords": [
+    "googlemaps",
+    "express"
+  ],
+  "author": "haryana wisnu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haryanawisnu/google-map-place-express/issues"
+  },
+  "homepage": "https://github.com/haryanawisnu/google-map-place-express#readme",
+  "dependencies": {
+    "@google/maps": "^0.3.1",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.2"
+  }
+}
